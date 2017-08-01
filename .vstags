@@ -1,0 +1,55 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BW::Better	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\BW\Better.pm	4;"	p
+BW::Better	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch15\BW\Better.pm	4;"	p
+BW::Simple	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\BW\Simple.pm	4;"	p
+DEBUG	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch15\constants.pl	15;"	c
+FALSE	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch04\constants.pl	9;"	c
+PI	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch04\constants.pl	7;"	c
+TRUE	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch04\constants.pl	8;"	c
+_make_better	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\BW\Better.pm	43;"	s
+_make_better	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch15\BW\Better.pm	51;"	s
+better	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\BW\Better.pm	27;"	s
+better	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch15\BW\Better.pm	32;"	s
+better_number	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch07\buffering.pl	16;"	s
+countlines	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch02\countlines3.pl	20;"	s
+countlines	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch03\countlines3.pl	20;"	s
+countlines	.\Perl\fourth.pl	16;"	s
+display_ref	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch11\ref.pl	13;"	s
+error	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch02\countlines3.pl	40;"	s
+error	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch03\countlines3.pl	40;"	s
+error	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch03\syntax.pl	14;"	s
+error	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch12\writefile.pl	27;"	s
+error	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\template.pl	14;"	s
+error	.\Perl\fourth.pl	30;"	s
+func	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch03\blocks.pl	13;"	s
+func	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch10\func.pl	9;"	s
+func	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch11\funcref.pl	10;"	s
+func	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\carp.pl	11;"	s
+func	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch15\warnings.pl	12;"	s
+func1	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch07\deffunc.pl	9;"	s
+main	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch02\countlines3.pl	11;"	s
+main	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch03\countlines3.pl	11;"	s
+main	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch03\syntax.pl	9;"	s
+main	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch07\buffering.pl	9;"	s
+main	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch12\writefile.pl	13;"	s
+main	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\template.pl	9;"	s
+main	.\Perl\fourth.pl	10;"	s
+make_counter	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch11\closure.pl	23;"	s
+new	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\BW\Better.pm	10;"	s
+new	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\BW\Simple.pm	10;"	s
+new	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch15\BW\Better.pm	12;"	s
+number	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\BW\Better.pm	21;"	s
+number	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\BW\Simple.pm	21;"	s
+number	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch15\BW\Better.pm	25;"	s
+sanitize_dollars_cents	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch08\dollars.pl	19;"	s
+string	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\BW\Better.pm	33;"	s
+string	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\BW\Simple.pm	26;"	s
+string	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch15\BW\Better.pm	39;"	s
+version	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\BW\Better.pm	38;"	s
+version	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch14\BW\Simple.pm	31;"	s
+version	.\Perl\Ex_Files_Perl_5_EssT\Exercise Files\Ch15\BW\Better.pm	45;"	s

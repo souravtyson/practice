@@ -13,4 +13,5 @@ close(FH);
 
 my $count = scalar @lines;
 
+# say "there are $count lines in $fileName";
 say "there are ". $count ." lines in ".$fileName;
